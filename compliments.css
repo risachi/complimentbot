@@ -1,0 +1,14 @@
+body {
+  background-color: #2E2E2E;
+}
+
+h1 {
+  color: white;
+  font-family: 'Hind Vadodara', sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
