@@ -34,6 +34,12 @@ var compliments =
     "You always make me smile, even when I'm trying not to",
     "I need you like Cookie Monster needs cookies",
     "You're pretty alright",
-    "If the awesome factory exploded, you would be the result"
-
+    "If the awesome factory exploded, you would be the result",
+    "I love you like a moth loves a flame",
+    "You've got a serrated edge that you move back and forth. It's such a simple machine. You don't have to use force",
+    "You're cool as a cucumber in a bowl of hot sauce"
+    "You've been dropping the new science and kicking the new knowledge. A geek to a degree that you can't get in college",
+    "You're like a lettuce, tomato, muenster on rye. All this cheese gonna makea me cry",
+    "I'd like to butter your muffin, I'm not bluffin', serve you on a platter like Thanksgiving stuffin'",
+    "No wonder you're not with just any fellow, you've got attractions like you're Elvis Costello."
   ]
