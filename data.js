@@ -25,7 +25,7 @@ var compliments =
     "You're more unique and wonderful than the smell of a new book",
     "Your smile is proof that the best things in life are free",
     "You're more fun than a ball pit full of puppies",
-    "When you smile, it's as if an angel came down from heaven and was like, 'This shit is perfect'",
+    "When you smile, it's as if an angel was like, 'This shit is perfect'",
     "Is Heaven missing an angel? If so, I'm sure you could find it",
     "You're smarter than Google and Mary Poppins combined",
     "Everything about you is the opposite of Comic Sans",
