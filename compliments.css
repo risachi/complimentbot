@@ -2,13 +2,6 @@ body {
   background-color: #2E2E2E;
 }
 
-footer {
-  position: absolute;
-  bottom: 3em;
-  width: 100%;
-  text-align: center;
-}
-
 h1 {
   color: white;
   font-family: 'Hind Vadodara', sans-serif;
@@ -24,6 +17,13 @@ h2 {
 
 a {
   color: grey;
+}
+
+footer {
+  position: absolute;
+  bottom: 3em;
+  width: 99.29%;
+  text-align: center;
 }
 
 .container {
