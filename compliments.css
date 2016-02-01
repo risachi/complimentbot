@@ -32,8 +32,16 @@ footer {
   align-items: center;
   justify-content: center;
   position: absolute;
-  top: 5px;
-  right: 5px;
+  top: 0px;
+  right: 0px;
   bottom: 5px;
   left: 5px;
+}
+
+#forkMe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+  z-index: 9;
 }
