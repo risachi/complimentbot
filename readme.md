@@ -1,5 +1,5 @@
-# ComplimentBot 5000 v1.0 welcomes you to its README  
-###### beep beep boop  
+## ComplimentBot 5000 v1.0 welcomes you to its README  
+beep beep boop  
 
 * to submit new compliments, add them to data.js  
 * if you work really hard and are kind, amazing things will happen  
