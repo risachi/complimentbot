@@ -34,6 +34,17 @@ var compliments =
     "You always make me smile, even when I'm trying not to",
     "I need you like Cookie Monster needs cookies",
     "You're pretty alright",
-    "If the awesome factory exploded, you would be the result"
-
+    "If the awesome factory exploded, you would be the result",
+    "You make me a better person",
+    "Any day spent with you is my favorite day",
+    "You're as sweet as a can of artificially flavored diet soda",
+    "You're the cat's pajamas",
+    "You're the kitten's mittens",
+    "Your friendship is better than chocolate",
+    "You're the bee's knees",
+    "You're the cat's meow",
+    "My life would suck without you",
+    "You're a cupcake in a world of muffins",
+    "You're doing great!",
+    "I would volunteer to take your place in The Hunger Games"
   ]
